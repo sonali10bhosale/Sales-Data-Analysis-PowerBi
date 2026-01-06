@@ -40,7 +40,7 @@ Dataset file:
 ![Comparison](Screenshots/comparison_analysis.png)
 
 ### Table View
-![Table](Screenshots/table_visual.png)
+![Table](Screenshots/Table_visual.png)
 The Overview dashboard provides a high-level summary of sales performance and key business metrics.
 
 ### Key Components:
