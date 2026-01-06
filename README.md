@@ -1,5 +1,6 @@
 # Sales-Data-Analysis-PowerBi
 End-to-end Sales Data Analysis using Power BI with interactive dashboards, DAX, and data modeling 
+![Sales Data Analysis Power BI Report](Power%20BI%20Report/Sales%20Data%20Analysis%20Project.pbix)
 
 ## Project Overview This project analyzes sales performance using Power BI. 
 The dashboard provides insights into revenue, profit, regional performance, and product-wise trends to support business decision-making.
@@ -25,6 +26,9 @@ The dashboard provides insights into revenue, profit, regional performance, and 
 - Profit 
 - Quantity
 
+Dataset file:  
+![Store Sales Dataset](Data%20set/Store+Data.xlsx)
+  
 ## Overview Dashboard
 ![Overview](Screenshots/overview.png)
 
@@ -41,7 +45,7 @@ The Overview dashboard provides a high-level summary of sales performance and ke
 ### Key Components:
 - **Sales Trend Analysis:**  
   Line chart showing sales trends over time with drill-down functionality (Year → Quarter → Month → Day).
-
+  
 - **Sales vs Profit Relationship:**  
   Scatter chart analyzing the correlation between Net Sales and Profit to identify performance patterns.
 
