@@ -62,3 +62,10 @@ The Overview dashboard provides a high-level summary of sales performance and ke
   - Net Sales  
   - Total Profit  
 
+## Business Insights
+- Revenue is driven mainly by a small set of products and regions.
+- Seasonal demand impacts sales trends significantly.
+- Discounting improves sales volume but negatively affects profit margins.
+
+## Author
+Sonali Bhosale
