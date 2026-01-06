@@ -1,6 +1,6 @@
 # Sales-Data-Analysis-PowerBi
 End-to-end Sales Data Analysis using Power BI with interactive dashboards, DAX, and data modeling 
-![Sales Data Analysis Power BI Report](Power%20BI%20Report/Sales%20Data%20Analysis%20Project.pbix)
+[Sales Data Analysis Power BI Report](Power%20BI%20Report/Sales%20Data%20Analysis%20Project.pbix)
 
 ## Project Overview This project analyzes sales performance using Power BI. 
 The dashboard provides insights into revenue, profit, regional performance, and product-wise trends to support business decision-making.
@@ -27,7 +27,7 @@ The dashboard provides insights into revenue, profit, regional performance, and 
 - Quantity
 
 Dataset file:  
-![Store Sales Dataset](Data%20set/Store+Data.xlsx)
+[Store Sales Dataset](Data%20set/Store+Data.xlsx)
   
 ## Overview Dashboard
 ![Overview](Screenshots/overview.png)
