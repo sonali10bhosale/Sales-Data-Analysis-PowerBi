@@ -1,5 +1,6 @@
 # Sales-Data-Analysis-PowerBi
-End-to-end Sales Data Analysis using Power BI with interactive dashboards, DAX, and data modeling 
+End-to-end Sales Data Analysis using Power BI with interactive dashboards, DAX, and data modeling
+
 [Sales Data Analysis Power BI Report](Power%20BI%20Report/Sales%20Data%20Analysis%20Project.pbix)
 
 ## Project Overview This project analyzes sales performance using Power BI. 
